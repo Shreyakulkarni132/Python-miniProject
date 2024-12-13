@@ -1,2 +1,6 @@
 # Python-miniProject
-This project comprises of game of WAR, which is a cards game coded in python language.
+This project comprises of game of WAR, which is a cards game coded in python language. <br>
+Following are the rules of game war: <br>
+The card game "War" is played with a standard deck of 52 cards, typically by two players. The deck is evenly divided, with each player holding 26 cards face down in a stack. In each round, both players reveal the top card from their stack. The player with the higher card (with Ace as the highest and numerical order determining rank) wins the round and collects both cards, placing them at the bottom of their stack. The game continues until one player collects all the cards or both players agree to stop. The objective is to capture all the opponent's cards. <br>
+
+A draw, called "war," occurs when both players reveal cards of equal rank. In this case, each player places three additional cards face down and reveals a fourth card. The player whose fourth card has the higher value wins all the cards played during that round. If the fourth cards are also equal, the process repeats until the tie is broken or one player runs out of cards. A player who cannot place enough cards during a war forfeits, and the opponent collects all remaining cards.
